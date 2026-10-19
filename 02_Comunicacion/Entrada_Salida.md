@@ -168,7 +168,7 @@ print("----------------------------------------")
 
 ---
 
-## 5. Ejercicios Prácticos para la Clase
+## 5. Ejercicios Prácticos
 
 Escribe un programa en Python para cada uno de los siguientes retos:
 

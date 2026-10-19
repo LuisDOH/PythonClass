@@ -127,7 +127,7 @@ Es como si le pidieramos a `type` que investigue el tipo de dato y luego el resu
 
 ---
 
-## 5. Ejercicio Práctico para la Clase
+## 5. Ejercicio Práctico
 
 Instrucciones: Analiza las siguientes variables e identifica cuáles cumplen las reglas de Python y cuáles generan un error. Si generan error, explica por qué.
 
