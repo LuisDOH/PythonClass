@@ -6,6 +6,7 @@
 * Si damos click por ejemplo a la carpete `Variables`, nos aparecera una nueva lista con todos los archivos que estan dentro de esta carpeta.
 
 <img width="1063" height="370" alt="image" src="https://github.com/user-attachments/assets/bbbf7c73-353e-4ad1-b8f4-2699ba2b7028" />
+
 > Los archivos que terminan con `.md` siempre contendran información que explique algún tema en particular. Tambien puede haber archivos con terminación `.py`, estos archivos son hojas de código como las que usted hace en VisualStudio Code.
 
 
